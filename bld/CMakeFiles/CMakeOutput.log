@@ -1,0 +1,623 @@
+The system is: Windows - 10.0.17134 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+.NET Framework�� Microsoft (R) Build Engine ���� 15.8.169+g1ccb72aefa
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+���� ����: 2018-11-27 ���� 6:43:37
+1 ����� "C:\project\app\term_project\bld\CMakeFiles\3.9.1\CompilerIdC\CompilerIdC.vcxproj" ������Ʈ(�⺻ ���)�Դϴ�.
+PrepareForBuild:
+  "Debug\" ���͸��� ����� �ֽ��ϴ�.
+  "Debug\CompilerIdC.tlog\" ���͸��� ����� �ֽ��ϴ�.
+InitializeBuildStatus:
+  "AlwaysCreate"��(��) �����Ǿ��� ������ "Debug\CompilerIdC.tlog\unsuccessfulbuild"��(��) ����� �ֽ��ϴ�.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x64\CL.exe /c /nologo /W0 /WX- /diagnostics:classic /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc141.pdb" /Gd /TC /FC /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x64\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X64 Debug\CMakeCCompilerId.obj
+  CompilerIdC.vcxproj -> C:\project\app\term_project\bld\CMakeFiles\3.9.1\CompilerIdC\.\CompilerIdC.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_C_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\Hostx86\x64\cl.exe
+FinalizeBuildStatus:
+  "Debug\CompilerIdC.tlog\unsuccessfulbuild" ������ �����ϰ� �ֽ��ϴ�.
+  "Debug\CompilerIdC.tlog\CompilerIdC.lastbuildstate"�� ����(touching)�ϰ� �ֽ��ϴ�.
+"C:\project\app\term_project\bld\CMakeFiles\3.9.1\CompilerIdC\CompilerIdC.vcxproj" ������Ʈ�� �����߽��ϴ�(�⺻ ���).
+
+�����߽��ϴ�.
+    ��� 0��
+    ���� 0��
+
+��� �ð�: 00:00:01.02
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+
+The C compiler identification is MSVC, found in "C:/project/app/term_project/bld/CMakeFiles/3.9.1/CompilerIdC/CompilerIdC.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+.NET Framework�� Microsoft (R) Build Engine ���� 15.8.169+g1ccb72aefa
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+���� ����: 2018-11-27 ���� 6:43:38
+1 ����� "C:\project\app\term_project\bld\CMakeFiles\3.9.1\CompilerIdCXX\CompilerIdCXX.vcxproj" ������Ʈ(�⺻ ���)�Դϴ�.
+PrepareForBuild:
+  "Debug\" ���͸��� ����� �ֽ��ϴ�.
+  "Debug\CompilerIdCXX.tlog\" ���͸��� ����� �ֽ��ϴ�.
+InitializeBuildStatus:
+  "AlwaysCreate"��(��) �����Ǿ��� ������ "Debug\CompilerIdCXX.tlog\unsuccessfulbuild"��(��) ����� �ֽ��ϴ�.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x64\CL.exe /c /nologo /W0 /WX- /diagnostics:classic /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc141.pdb" /Gd /TP /FC /errorReport:queue CMakeCXXCompilerId.cpp
+  CMakeCXXCompilerId.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x64\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X64 Debug\CMakeCXXCompilerId.obj
+  CompilerIdCXX.vcxproj -> C:\project\app\term_project\bld\CMakeFiles\3.9.1\CompilerIdCXX\.\CompilerIdCXX.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_CXX_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\Hostx86\x64\cl.exe
+FinalizeBuildStatus:
+  "Debug\CompilerIdCXX.tlog\unsuccessfulbuild" ������ �����ϰ� �ֽ��ϴ�.
+  "Debug\CompilerIdCXX.tlog\CompilerIdCXX.lastbuildstate"�� ����(touching)�ϰ� �ֽ��ϴ�.
+"C:\project\app\term_project\bld\CMakeFiles\3.9.1\CompilerIdCXX\CompilerIdCXX.vcxproj" ������Ʈ�� �����߽��ϴ�(�⺻ ���).
+
+�����߽��ϴ�.
+    ��� 0��
+    ���� 0��
+
+��� �ð�: 00:00:00.75
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
+
+The CXX compiler identification is MSVC, found in "C:/project/app/term_project/bld/CMakeFiles/3.9.1/CompilerIdCXX/CompilerIdCXX.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: C:/project/app/term_project/bld/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:\Program Files (x86)\Microsoft Visual Studio\2017\Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_5702a.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+.NET Framework용 Microsoft (R) Build Engine 버전 15.8.169+g1ccb72aefa
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+빌드 시작: 2018-11-27 오후 6:43:39
+1 노드의 "C:\project\app\term_project\bld\CMakeFiles\CMakeTmp\cmTC_5702a.vcxproj" 프로젝트(기본 대상)입니다.
+PrepareForBuild:
+  "cmTC_5702a.dir\Debug\" 디렉터리를 만들고 있습니다.
+  "C:\project\app\term_project\bld\CMakeFiles\CMakeTmp\Debug\" 디렉터리를 만들고 있습니다.
+  "cmTC_5702a.dir\Debug\cmTC_5702a.tlog\" 디렉터리를 만들고 있습니다.
+InitializeBuildStatus:
+  "AlwaysCreate"이(가) 지정되었기 때문에 "cmTC_5702a.dir\Debug\cmTC_5702a.tlog\unsuccessfulbuild"을(를) 만들고 있습니다.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x64\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_5702a.dir\Debug\\" /Fd"cmTC_5702a.dir\Debug\vc141.pdb" /Gd /TC /FC /errorReport:queue C:\project\app\term_project\bld\CMakeFiles\CMakeTmp\testCCompiler.c
+  Microsoft (R) C/C++ 최적화 컴파일러 버전 19.15.26730(x64)
+  Copyright (c) Microsoft Corporation. All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_5702a.dir\Debug\\" /Fd"cmTC_5702a.dir\Debug\vc141.pdb" /Gd /TC /FC /errorReport:queue C:\project\app\term_project\bld\CMakeFiles\CMakeTmp\testCCompiler.c
+  testCCompiler.c
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x64\link.exe /ERRORREPORT:QUEUE /OUT:"C:\project\app\term_project\bld\CMakeFiles\CMakeTmp\Debug\cmTC_5702a.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/project/app/term_project/bld/CMakeFiles/CMakeTmp/Debug/cmTC_5702a.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/project/app/term_project/bld/CMakeFiles/CMakeTmp/Debug/cmTC_5702a.lib" /MACHINE:X64  /machine:x64 cmTC_5702a.dir\Debug\testCCompiler.obj
+  cmTC_5702a.vcxproj -> C:\project\app\term_project\bld\CMakeFiles\CMakeTmp\Debug\cmTC_5702a.exe
+FinalizeBuildStatus:
+  "cmTC_5702a.dir\Debug\cmTC_5702a.tlog\unsuccessfulbuild" 파일을 삭제하고 있습니다.
+  "cmTC_5702a.dir\Debug\cmTC_5702a.tlog\cmTC_5702a.lastbuildstate"에 연결(touching)하고 있습니다.
+"C:\project\app\term_project\bld\CMakeFiles\CMakeTmp\cmTC_5702a.vcxproj" 프로젝트를 빌드했습니다(기본 대상).
+
+빌드했습니다.
+    경고 0개
+    오류 0개
+
+경과 시간: 00:00:00.81
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: C:/project/app/term_project/bld/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:\Program Files (x86)\Microsoft Visual Studio\2017\Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_b17d1.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+.NET Framework용 Microsoft (R) Build Engine 버전 15.8.169+g1ccb72aefa
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+빌드 시작: 2018-11-27 오후 6:43:40
+1 노드의 "C:\project\app\term_project\bld\CMakeFiles\CMakeTmp\cmTC_b17d1.vcxproj" 프로젝트(기본 대상)입니다.
+PrepareForBuild:
+  "cmTC_b17d1.dir\Debug\" 디렉터리를 만들고 있습니다.
+  "C:\project\app\term_project\bld\CMakeFiles\CMakeTmp\Debug\" 디렉터리를 만들고 있습니다.
+  "cmTC_b17d1.dir\Debug\cmTC_b17d1.tlog\" 디렉터리를 만들고 있습니다.
+InitializeBuildStatus:
+  "AlwaysCreate"이(가) 지정되었기 때문에 "cmTC_b17d1.dir\Debug\cmTC_b17d1.tlog\unsuccessfulbuild"을(를) 만들고 있습니다.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x64\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_b17d1.dir\Debug\\" /Fd"cmTC_b17d1.dir\Debug\vc141.pdb" /Gd /TC /FC /errorReport:queue "C:\Users\xoghk\Desktop\수업\컴퓨터 비전\cmake-3.9.1-win64-x64\share\cmake-3.9\Modules\CMakeCCompilerABI.c"
+  Microsoft (R) C/C++ 최적화 컴파일러 버전 19.15.26730(x64)
+  Copyright (c) Microsoft Corporation. All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_b17d1.dir\Debug\\" /Fd"cmTC_b17d1.dir\Debug\vc141.pdb" /Gd /TC /FC /errorReport:queue "C:\Users\xoghk\Desktop\수업\컴퓨터 비전\cmake-3.9.1-win64-x64\share\cmake-3.9\Modules\CMakeCCompilerABI.c"
+  CMakeCCompilerABI.c
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x64\link.exe /ERRORREPORT:QUEUE /OUT:"C:\project\app\term_project\bld\CMakeFiles\CMakeTmp\Debug\cmTC_b17d1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/project/app/term_project/bld/CMakeFiles/CMakeTmp/Debug/cmTC_b17d1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/project/app/term_project/bld/CMakeFiles/CMakeTmp/Debug/cmTC_b17d1.lib" /MACHINE:X64  /machine:x64 cmTC_b17d1.dir\Debug\CMakeCCompilerABI.obj
+  cmTC_b17d1.vcxproj -> C:\project\app\term_project\bld\CMakeFiles\CMakeTmp\Debug\cmTC_b17d1.exe
+FinalizeBuildStatus:
+  "cmTC_b17d1.dir\Debug\cmTC_b17d1.tlog\unsuccessfulbuild" 파일을 삭제하고 있습니다.
+  "cmTC_b17d1.dir\Debug\cmTC_b17d1.tlog\cmTC_b17d1.lastbuildstate"에 연결(touching)하고 있습니다.
+"C:\project\app\term_project\bld\CMakeFiles\CMakeTmp\cmTC_b17d1.vcxproj" 프로젝트를 빌드했습니다(기본 대상).
+
+빌드했습니다.
+    경고 0개
+    오류 0개
+
+경과 시간: 00:00:00.79
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: C:/project/app/term_project/bld/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:\Program Files (x86)\Microsoft Visual Studio\2017\Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_9949d.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+.NET Framework용 Microsoft (R) Build Engine 버전 15.8.169+g1ccb72aefa
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+빌드 시작: 2018-11-27 오후 6:43:42
+1 노드의 "C:\project\app\term_project\bld\CMakeFiles\CMakeTmp\cmTC_9949d.vcxproj" 프로젝트(기본 대상)입니다.
+PrepareForBuild:
+  "cmTC_9949d.dir\Debug\" 디렉터리를 만들고 있습니다.
+  "C:\project\app\term_project\bld\CMakeFiles\CMakeTmp\Debug\" 디렉터리를 만들고 있습니다.
+  "cmTC_9949d.dir\Debug\cmTC_9949d.tlog\" 디렉터리를 만들고 있습니다.
+InitializeBuildStatus:
+  "AlwaysCreate"이(가) 지정되었기 때문에 "cmTC_9949d.dir\Debug\cmTC_9949d.tlog\unsuccessfulbuild"을(를) 만들고 있습니다.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x64\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_9949d.dir\Debug\\" /Fd"cmTC_9949d.dir\Debug\vc141.pdb" /Gd /TP /FC /errorReport:queue C:\project\app\term_project\bld\CMakeFiles\CMakeTmp\testCXXCompiler.cxx
+  Microsoft (R) C/C++ 최적화 컴파일러 버전 19.15.26730(x64)
+  Copyright (c) Microsoft Corporation. All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_9949d.dir\Debug\\" /Fd"cmTC_9949d.dir\Debug\vc141.pdb" /Gd /TP /FC /errorReport:queue C:\project\app\term_project\bld\CMakeFiles\CMakeTmp\testCXXCompiler.cxx
+  testCXXCompiler.cxx
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x64\link.exe /ERRORREPORT:QUEUE /OUT:"C:\project\app\term_project\bld\CMakeFiles\CMakeTmp\Debug\cmTC_9949d.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/project/app/term_project/bld/CMakeFiles/CMakeTmp/Debug/cmTC_9949d.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/project/app/term_project/bld/CMakeFiles/CMakeTmp/Debug/cmTC_9949d.lib" /MACHINE:X64  /machine:x64 cmTC_9949d.dir\Debug\testCXXCompiler.obj
+  cmTC_9949d.vcxproj -> C:\project\app\term_project\bld\CMakeFiles\CMakeTmp\Debug\cmTC_9949d.exe
+FinalizeBuildStatus:
+  "cmTC_9949d.dir\Debug\cmTC_9949d.tlog\unsuccessfulbuild" 파일을 삭제하고 있습니다.
+  "cmTC_9949d.dir\Debug\cmTC_9949d.tlog\cmTC_9949d.lastbuildstate"에 연결(touching)하고 있습니다.
+"C:\project\app\term_project\bld\CMakeFiles\CMakeTmp\cmTC_9949d.vcxproj" 프로젝트를 빌드했습니다(기본 대상).
+
+빌드했습니다.
+    경고 0개
+    오류 0개
+
+경과 시간: 00:00:00.82
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: C:/project/app/term_project/bld/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:\Program Files (x86)\Microsoft Visual Studio\2017\Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_ebd6e.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+.NET Framework용 Microsoft (R) Build Engine 버전 15.8.169+g1ccb72aefa
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+빌드 시작: 2018-11-27 오후 6:43:43
+1 노드의 "C:\project\app\term_project\bld\CMakeFiles\CMakeTmp\cmTC_ebd6e.vcxproj" 프로젝트(기본 대상)입니다.
+PrepareForBuild:
+  "cmTC_ebd6e.dir\Debug\" 디렉터리를 만들고 있습니다.
+  "C:\project\app\term_project\bld\CMakeFiles\CMakeTmp\Debug\" 디렉터리를 만들고 있습니다.
+  "cmTC_ebd6e.dir\Debug\cmTC_ebd6e.tlog\" 디렉터리를 만들고 있습니다.
+InitializeBuildStatus:
+  "AlwaysCreate"이(가) 지정되었기 때문에 "cmTC_ebd6e.dir\Debug\cmTC_ebd6e.tlog\unsuccessfulbuild"을(를) 만들고 있습니다.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x64\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_ebd6e.dir\Debug\\" /Fd"cmTC_ebd6e.dir\Debug\vc141.pdb" /Gd /TP /FC /errorReport:queue "C:\Users\xoghk\Desktop\수업\컴퓨터 비전\cmake-3.9.1-win64-x64\share\cmake-3.9\Modules\CMakeCXXCompilerABI.cpp"
+  Microsoft (R) C/C++ 최적화 컴파일러 버전 19.15.26730(x64)
+  Copyright (c) Microsoft Corporation. All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_ebd6e.dir\Debug\\" /Fd"cmTC_ebd6e.dir\Debug\vc141.pdb" /Gd /TP /FC /errorReport:queue "C:\Users\xoghk\Desktop\수업\컴퓨터 비전\cmake-3.9.1-win64-x64\share\cmake-3.9\Modules\CMakeCXXCompilerABI.cpp"
+  CMakeCXXCompilerABI.cpp
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x64\link.exe /ERRORREPORT:QUEUE /OUT:"C:\project\app\term_project\bld\CMakeFiles\CMakeTmp\Debug\cmTC_ebd6e.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/project/app/term_project/bld/CMakeFiles/CMakeTmp/Debug/cmTC_ebd6e.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/project/app/term_project/bld/CMakeFiles/CMakeTmp/Debug/cmTC_ebd6e.lib" /MACHINE:X64  /machine:x64 cmTC_ebd6e.dir\Debug\CMakeCXXCompilerABI.obj
+  cmTC_ebd6e.vcxproj -> C:\project\app\term_project\bld\CMakeFiles\CMakeTmp\Debug\cmTC_ebd6e.exe
+FinalizeBuildStatus:
+  "cmTC_ebd6e.dir\Debug\cmTC_ebd6e.tlog\unsuccessfulbuild" 파일을 삭제하고 있습니다.
+  "cmTC_ebd6e.dir\Debug\cmTC_ebd6e.tlog\cmTC_ebd6e.lastbuildstate"에 연결(touching)하고 있습니다.
+"C:\project\app\term_project\bld\CMakeFiles\CMakeTmp\cmTC_ebd6e.vcxproj" 프로젝트를 빌드했습니다(기본 대상).
+
+빌드했습니다.
+    경고 0개
+    오류 0개
+
+경과 시간: 00:00:00.83
+
+
+
+
+Detecting CXX [] compiler features compiled with the following output:
+Change Dir: C:/project/app/term_project/bld/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:\Program Files (x86)\Microsoft Visual Studio\2017\Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_7a744.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+.NET Framework용 Microsoft (R) Build Engine 버전 15.8.169+g1ccb72aefa
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+빌드 시작: 2018-11-27 오후 6:43:44
+1 노드의 "C:\project\app\term_project\bld\CMakeFiles\CMakeTmp\cmTC_7a744.vcxproj" 프로젝트(기본 대상)입니다.
+PrepareForBuild:
+  "cmTC_7a744.dir\Debug\" 디렉터리를 만들고 있습니다.
+  "C:\project\app\term_project\bld\CMakeFiles\CMakeTmp\Debug\" 디렉터리를 만들고 있습니다.
+  "cmTC_7a744.dir\Debug\cmTC_7a744.tlog\" 디렉터리를 만들고 있습니다.
+InitializeBuildStatus:
+  "AlwaysCreate"이(가) 지정되었기 때문에 "cmTC_7a744.dir\Debug\cmTC_7a744.tlog\unsuccessfulbuild"을(를) 만들고 있습니다.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x64\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_7a744.dir\Debug\\" /Fd"cmTC_7a744.dir\Debug\vc141.pdb" /Gd /TP /FC /errorReport:queue C:\project\app\term_project\bld\CMakeFiles\feature_tests.cxx
+  Microsoft (R) C/C++ 최적화 컴파일러 버전 19.15.26730(x64)
+  Copyright (c) Microsoft Corporation. All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_7a744.dir\Debug\\" /Fd"cmTC_7a744.dir\Debug\vc141.pdb" /Gd /TP /FC /errorReport:queue C:\project\app\term_project\bld\CMakeFiles\feature_tests.cxx
+  feature_tests.cxx
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x64\link.exe /ERRORREPORT:QUEUE /OUT:"C:\project\app\term_project\bld\CMakeFiles\CMakeTmp\Debug\cmTC_7a744.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/project/app/term_project/bld/CMakeFiles/CMakeTmp/Debug/cmTC_7a744.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/project/app/term_project/bld/CMakeFiles/CMakeTmp/Debug/cmTC_7a744.lib" /MACHINE:X64  /machine:x64 cmTC_7a744.dir\Debug\feature_tests.obj
+  cmTC_7a744.vcxproj -> C:\project\app\term_project\bld\CMakeFiles\CMakeTmp\Debug\cmTC_7a744.exe
+FinalizeBuildStatus:
+  "cmTC_7a744.dir\Debug\cmTC_7a744.tlog\unsuccessfulbuild" 파일을 삭제하고 있습니다.
+  "cmTC_7a744.dir\Debug\cmTC_7a744.tlog\cmTC_7a744.lastbuildstate"에 연결(touching)하고 있습니다.
+"C:\project\app\term_project\bld\CMakeFiles\CMakeTmp\cmTC_7a744.vcxproj" 프로젝트를 빌드했습니다(기본 대상).
+
+빌드했습니다.
+    경고 0개
+    오류 0개
+
+경과 시간: 00:00:00.83
+
+
+    Feature record: CXX_FEATURE:1cxx_aggregate_default_initializers
+    Feature record: CXX_FEATURE:1cxx_alias_templates
+    Feature record: CXX_FEATURE:1cxx_alignas
+    Feature record: CXX_FEATURE:1cxx_alignof
+    Feature record: CXX_FEATURE:1cxx_attributes
+    Feature record: CXX_FEATURE:1cxx_attribute_deprecated
+    Feature record: CXX_FEATURE:1cxx_auto_type
+    Feature record: CXX_FEATURE:1cxx_binary_literals
+    Feature record: CXX_FEATURE:1cxx_constexpr
+    Feature record: CXX_FEATURE:1cxx_contextual_conversions
+    Feature record: CXX_FEATURE:1cxx_decltype
+    Feature record: CXX_FEATURE:1cxx_decltype_auto
+    Feature record: CXX_FEATURE:1cxx_default_function_template_args
+    Feature record: CXX_FEATURE:1cxx_defaulted_functions
+    Feature record: CXX_FEATURE:1cxx_defaulted_move_initializers
+    Feature record: CXX_FEATURE:1cxx_delegating_constructors
+    Feature record: CXX_FEATURE:1cxx_deleted_functions
+    Feature record: CXX_FEATURE:1cxx_digit_separators
+    Feature record: CXX_FEATURE:1cxx_enum_forward_declarations
+    Feature record: CXX_FEATURE:1cxx_explicit_conversions
+    Feature record: CXX_FEATURE:1cxx_extended_friend_declarations
+    Feature record: CXX_FEATURE:1cxx_extern_templates
+    Feature record: CXX_FEATURE:1cxx_final
+    Feature record: CXX_FEATURE:1cxx_func_identifier
+    Feature record: CXX_FEATURE:1cxx_generalized_initializers
+    Feature record: CXX_FEATURE:1cxx_generic_lambdas
+    Feature record: CXX_FEATURE:1cxx_inheriting_constructors
+    Feature record: CXX_FEATURE:1cxx_inline_namespaces
+    Feature record: CXX_FEATURE:1cxx_lambdas
+    Feature record: CXX_FEATURE:1cxx_lambda_init_captures
+    Feature record: CXX_FEATURE:1cxx_local_type_template_args
+    Feature record: CXX_FEATURE:1cxx_long_long_type
+    Feature record: CXX_FEATURE:1cxx_noexcept
+    Feature record: CXX_FEATURE:1cxx_nonstatic_member_init
+    Feature record: CXX_FEATURE:1cxx_nullptr
+    Feature record: CXX_FEATURE:1cxx_override
+    Feature record: CXX_FEATURE:1cxx_range_for
+    Feature record: CXX_FEATURE:1cxx_raw_string_literals
+    Feature record: CXX_FEATURE:1cxx_reference_qualified_functions
+    Feature record: CXX_FEATURE:1cxx_return_type_deduction
+    Feature record: CXX_FEATURE:1cxx_right_angle_brackets
+    Feature record: CXX_FEATURE:1cxx_rvalue_references
+    Feature record: CXX_FEATURE:1cxx_sizeof_member
+    Feature record: CXX_FEATURE:1cxx_static_assert
+    Feature record: CXX_FEATURE:1cxx_strong_enums
+    Feature record: CXX_FEATURE:1cxx_template_template_parameters
+    Feature record: CXX_FEATURE:1cxx_thread_local
+    Feature record: CXX_FEATURE:1cxx_trailing_return_types
+    Feature record: CXX_FEATURE:1cxx_unicode_literals
+    Feature record: CXX_FEATURE:1cxx_uniform_initialization
+    Feature record: CXX_FEATURE:1cxx_unrestricted_unions
+    Feature record: CXX_FEATURE:1cxx_user_literals
+    Feature record: CXX_FEATURE:1cxx_variable_templates
+    Feature record: CXX_FEATURE:1cxx_variadic_macros
+    Feature record: CXX_FEATURE:1cxx_variadic_templates
+
+
+Detecting CXX [] compiler features compiled with the following output:
+Change Dir: C:/project/app/term_project/bld/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:\Program Files (x86)\Microsoft Visual Studio\2017\Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_72b1b.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+.NET Framework용 Microsoft (R) Build Engine 버전 15.8.169+g1ccb72aefa
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+빌드 시작: 2018-11-27 오후 6:43:45
+1 노드의 "C:\project\app\term_project\bld\CMakeFiles\CMakeTmp\cmTC_72b1b.vcxproj" 프로젝트(기본 대상)입니다.
+PrepareForBuild:
+  "cmTC_72b1b.dir\Debug\" 디렉터리를 만들고 있습니다.
+  "C:\project\app\term_project\bld\CMakeFiles\CMakeTmp\Debug\" 디렉터리를 만들고 있습니다.
+  "cmTC_72b1b.dir\Debug\cmTC_72b1b.tlog\" 디렉터리를 만들고 있습니다.
+InitializeBuildStatus:
+  "AlwaysCreate"이(가) 지정되었기 때문에 "cmTC_72b1b.dir\Debug\cmTC_72b1b.tlog\unsuccessfulbuild"을(를) 만들고 있습니다.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x64\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_72b1b.dir\Debug\\" /Fd"cmTC_72b1b.dir\Debug\vc141.pdb" /Gd /TP /FC /errorReport:queue C:\project\app\term_project\bld\CMakeFiles\feature_tests.cxx
+  Microsoft (R) C/C++ 최적화 컴파일러 버전 19.15.26730(x64)
+  Copyright (c) Microsoft Corporation. All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_72b1b.dir\Debug\\" /Fd"cmTC_72b1b.dir\Debug\vc141.pdb" /Gd /TP /FC /errorReport:queue C:\project\app\term_project\bld\CMakeFiles\feature_tests.cxx
+  feature_tests.cxx
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x64\link.exe /ERRORREPORT:QUEUE /OUT:"C:\project\app\term_project\bld\CMakeFiles\CMakeTmp\Debug\cmTC_72b1b.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/project/app/term_project/bld/CMakeFiles/CMakeTmp/Debug/cmTC_72b1b.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/project/app/term_project/bld/CMakeFiles/CMakeTmp/Debug/cmTC_72b1b.lib" /MACHINE:X64  /machine:x64 cmTC_72b1b.dir\Debug\feature_tests.obj
+  cmTC_72b1b.vcxproj -> C:\project\app\term_project\bld\CMakeFiles\CMakeTmp\Debug\cmTC_72b1b.exe
+FinalizeBuildStatus:
+  "cmTC_72b1b.dir\Debug\cmTC_72b1b.tlog\unsuccessfulbuild" 파일을 삭제하고 있습니다.
+  "cmTC_72b1b.dir\Debug\cmTC_72b1b.tlog\cmTC_72b1b.lastbuildstate"에 연결(touching)하고 있습니다.
+"C:\project\app\term_project\bld\CMakeFiles\CMakeTmp\cmTC_72b1b.vcxproj" 프로젝트를 빌드했습니다(기본 대상).
+
+빌드했습니다.
+    경고 0개
+    오류 0개
+
+경과 시간: 00:00:00.82
+
+
+    Feature record: CXX_FEATURE:1cxx_aggregate_default_initializers
+    Feature record: CXX_FEATURE:1cxx_alias_templates
+    Feature record: CXX_FEATURE:1cxx_alignas
+    Feature record: CXX_FEATURE:1cxx_alignof
+    Feature record: CXX_FEATURE:1cxx_attributes
+    Feature record: CXX_FEATURE:1cxx_attribute_deprecated
+    Feature record: CXX_FEATURE:1cxx_auto_type
+    Feature record: CXX_FEATURE:1cxx_binary_literals
+    Feature record: CXX_FEATURE:1cxx_constexpr
+    Feature record: CXX_FEATURE:1cxx_contextual_conversions
+    Feature record: CXX_FEATURE:1cxx_decltype
+    Feature record: CXX_FEATURE:1cxx_decltype_auto
+    Feature record: CXX_FEATURE:1cxx_default_function_template_args
+    Feature record: CXX_FEATURE:1cxx_defaulted_functions
+    Feature record: CXX_FEATURE:1cxx_defaulted_move_initializers
+    Feature record: CXX_FEATURE:1cxx_delegating_constructors
+    Feature record: CXX_FEATURE:1cxx_deleted_functions
+    Feature record: CXX_FEATURE:1cxx_digit_separators
+    Feature record: CXX_FEATURE:1cxx_enum_forward_declarations
+    Feature record: CXX_FEATURE:1cxx_explicit_conversions
+    Feature record: CXX_FEATURE:1cxx_extended_friend_declarations
+    Feature record: CXX_FEATURE:1cxx_extern_templates
+    Feature record: CXX_FEATURE:1cxx_final
+    Feature record: CXX_FEATURE:1cxx_func_identifier
+    Feature record: CXX_FEATURE:1cxx_generalized_initializers
+    Feature record: CXX_FEATURE:1cxx_generic_lambdas
+    Feature record: CXX_FEATURE:1cxx_inheriting_constructors
+    Feature record: CXX_FEATURE:1cxx_inline_namespaces
+    Feature record: CXX_FEATURE:1cxx_lambdas
+    Feature record: CXX_FEATURE:1cxx_lambda_init_captures
+    Feature record: CXX_FEATURE:1cxx_local_type_template_args
+    Feature record: CXX_FEATURE:1cxx_long_long_type
+    Feature record: CXX_FEATURE:1cxx_noexcept
+    Feature record: CXX_FEATURE:1cxx_nonstatic_member_init
+    Feature record: CXX_FEATURE:1cxx_nullptr
+    Feature record: CXX_FEATURE:1cxx_override
+    Feature record: CXX_FEATURE:1cxx_range_for
+    Feature record: CXX_FEATURE:1cxx_raw_string_literals
+    Feature record: CXX_FEATURE:1cxx_reference_qualified_functions
+    Feature record: CXX_FEATURE:1cxx_return_type_deduction
+    Feature record: CXX_FEATURE:1cxx_right_angle_brackets
+    Feature record: CXX_FEATURE:1cxx_rvalue_references
+    Feature record: CXX_FEATURE:1cxx_sizeof_member
+    Feature record: CXX_FEATURE:1cxx_static_assert
+    Feature record: CXX_FEATURE:1cxx_strong_enums
+    Feature record: CXX_FEATURE:1cxx_template_template_parameters
+    Feature record: CXX_FEATURE:1cxx_thread_local
+    Feature record: CXX_FEATURE:1cxx_trailing_return_types
+    Feature record: CXX_FEATURE:1cxx_unicode_literals
+    Feature record: CXX_FEATURE:1cxx_uniform_initialization
+    Feature record: CXX_FEATURE:1cxx_unrestricted_unions
+    Feature record: CXX_FEATURE:1cxx_user_literals
+    Feature record: CXX_FEATURE:1cxx_variable_templates
+    Feature record: CXX_FEATURE:1cxx_variadic_macros
+    Feature record: CXX_FEATURE:1cxx_variadic_templates
+
+
+Detecting CXX [] compiler features compiled with the following output:
+Change Dir: C:/project/app/term_project/bld/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:\Program Files (x86)\Microsoft Visual Studio\2017\Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_91e2c.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+.NET Framework용 Microsoft (R) Build Engine 버전 15.8.169+g1ccb72aefa
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+빌드 시작: 2018-11-27 오후 6:43:46
+1 노드의 "C:\project\app\term_project\bld\CMakeFiles\CMakeTmp\cmTC_91e2c.vcxproj" 프로젝트(기본 대상)입니다.
+PrepareForBuild:
+  "cmTC_91e2c.dir\Debug\" 디렉터리를 만들고 있습니다.
+  "C:\project\app\term_project\bld\CMakeFiles\CMakeTmp\Debug\" 디렉터리를 만들고 있습니다.
+  "cmTC_91e2c.dir\Debug\cmTC_91e2c.tlog\" 디렉터리를 만들고 있습니다.
+InitializeBuildStatus:
+  "AlwaysCreate"이(가) 지정되었기 때문에 "cmTC_91e2c.dir\Debug\cmTC_91e2c.tlog\unsuccessfulbuild"을(를) 만들고 있습니다.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x64\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_91e2c.dir\Debug\\" /Fd"cmTC_91e2c.dir\Debug\vc141.pdb" /Gd /TP /FC /errorReport:queue C:\project\app\term_project\bld\CMakeFiles\feature_tests.cxx
+  Microsoft (R) C/C++ 최적화 컴파일러 버전 19.15.26730(x64)
+  Copyright (c) Microsoft Corporation. All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_91e2c.dir\Debug\\" /Fd"cmTC_91e2c.dir\Debug\vc141.pdb" /Gd /TP /FC /errorReport:queue C:\project\app\term_project\bld\CMakeFiles\feature_tests.cxx
+  feature_tests.cxx
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x64\link.exe /ERRORREPORT:QUEUE /OUT:"C:\project\app\term_project\bld\CMakeFiles\CMakeTmp\Debug\cmTC_91e2c.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/project/app/term_project/bld/CMakeFiles/CMakeTmp/Debug/cmTC_91e2c.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/project/app/term_project/bld/CMakeFiles/CMakeTmp/Debug/cmTC_91e2c.lib" /MACHINE:X64  /machine:x64 cmTC_91e2c.dir\Debug\feature_tests.obj
+  cmTC_91e2c.vcxproj -> C:\project\app\term_project\bld\CMakeFiles\CMakeTmp\Debug\cmTC_91e2c.exe
+FinalizeBuildStatus:
+  "cmTC_91e2c.dir\Debug\cmTC_91e2c.tlog\unsuccessfulbuild" 파일을 삭제하고 있습니다.
+  "cmTC_91e2c.dir\Debug\cmTC_91e2c.tlog\cmTC_91e2c.lastbuildstate"에 연결(touching)하고 있습니다.
+"C:\project\app\term_project\bld\CMakeFiles\CMakeTmp\cmTC_91e2c.vcxproj" 프로젝트를 빌드했습니다(기본 대상).
+
+빌드했습니다.
+    경고 0개
+    오류 0개
+
+경과 시간: 00:00:00.82
+
+
+    Feature record: CXX_FEATURE:1cxx_aggregate_default_initializers
+    Feature record: CXX_FEATURE:1cxx_alias_templates
+    Feature record: CXX_FEATURE:1cxx_alignas
+    Feature record: CXX_FEATURE:1cxx_alignof
+    Feature record: CXX_FEATURE:1cxx_attributes
+    Feature record: CXX_FEATURE:1cxx_attribute_deprecated
+    Feature record: CXX_FEATURE:1cxx_auto_type
+    Feature record: CXX_FEATURE:1cxx_binary_literals
+    Feature record: CXX_FEATURE:1cxx_constexpr
+    Feature record: CXX_FEATURE:1cxx_contextual_conversions
+    Feature record: CXX_FEATURE:1cxx_decltype
+    Feature record: CXX_FEATURE:1cxx_decltype_auto
+    Feature record: CXX_FEATURE:1cxx_default_function_template_args
+    Feature record: CXX_FEATURE:1cxx_defaulted_functions
+    Feature record: CXX_FEATURE:1cxx_defaulted_move_initializers
+    Feature record: CXX_FEATURE:1cxx_delegating_constructors
+    Feature record: CXX_FEATURE:1cxx_deleted_functions
+    Feature record: CXX_FEATURE:1cxx_digit_separators
+    Feature record: CXX_FEATURE:1cxx_enum_forward_declarations
+    Feature record: CXX_FEATURE:1cxx_explicit_conversions
+    Feature record: CXX_FEATURE:1cxx_extended_friend_declarations
+    Feature record: CXX_FEATURE:1cxx_extern_templates
+    Feature record: CXX_FEATURE:1cxx_final
+    Feature record: CXX_FEATURE:1cxx_func_identifier
+    Feature record: CXX_FEATURE:1cxx_generalized_initializers
+    Feature record: CXX_FEATURE:1cxx_generic_lambdas
+    Feature record: CXX_FEATURE:1cxx_inheriting_constructors
+    Feature record: CXX_FEATURE:1cxx_inline_namespaces
+    Feature record: CXX_FEATURE:1cxx_lambdas
+    Feature record: CXX_FEATURE:1cxx_lambda_init_captures
+    Feature record: CXX_FEATURE:1cxx_local_type_template_args
+    Feature record: CXX_FEATURE:1cxx_long_long_type
+    Feature record: CXX_FEATURE:1cxx_noexcept
+    Feature record: CXX_FEATURE:1cxx_nonstatic_member_init
+    Feature record: CXX_FEATURE:1cxx_nullptr
+    Feature record: CXX_FEATURE:1cxx_override
+    Feature record: CXX_FEATURE:1cxx_range_for
+    Feature record: CXX_FEATURE:1cxx_raw_string_literals
+    Feature record: CXX_FEATURE:1cxx_reference_qualified_functions
+    Feature record: CXX_FEATURE:1cxx_return_type_deduction
+    Feature record: CXX_FEATURE:1cxx_right_angle_brackets
+    Feature record: CXX_FEATURE:1cxx_rvalue_references
+    Feature record: CXX_FEATURE:1cxx_sizeof_member
+    Feature record: CXX_FEATURE:1cxx_static_assert
+    Feature record: CXX_FEATURE:1cxx_strong_enums
+    Feature record: CXX_FEATURE:1cxx_template_template_parameters
+    Feature record: CXX_FEATURE:1cxx_thread_local
+    Feature record: CXX_FEATURE:1cxx_trailing_return_types
+    Feature record: CXX_FEATURE:1cxx_unicode_literals
+    Feature record: CXX_FEATURE:1cxx_uniform_initialization
+    Feature record: CXX_FEATURE:1cxx_unrestricted_unions
+    Feature record: CXX_FEATURE:1cxx_user_literals
+    Feature record: CXX_FEATURE:1cxx_variable_templates
+    Feature record: CXX_FEATURE:1cxx_variadic_macros
+    Feature record: CXX_FEATURE:1cxx_variadic_templates
+
+
+Detecting CXX [] compiler features compiled with the following output:
+Change Dir: C:/project/app/term_project/bld/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:\Program Files (x86)\Microsoft Visual Studio\2017\Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_1c5cd.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+.NET Framework용 Microsoft (R) Build Engine 버전 15.8.169+g1ccb72aefa
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+빌드 시작: 2018-11-27 오후 6:43:48
+1 노드의 "C:\project\app\term_project\bld\CMakeFiles\CMakeTmp\cmTC_1c5cd.vcxproj" 프로젝트(기본 대상)입니다.
+PrepareForBuild:
+  "cmTC_1c5cd.dir\Debug\" 디렉터리를 만들고 있습니다.
+  "C:\project\app\term_project\bld\CMakeFiles\CMakeTmp\Debug\" 디렉터리를 만들고 있습니다.
+  "cmTC_1c5cd.dir\Debug\cmTC_1c5cd.tlog\" 디렉터리를 만들고 있습니다.
+InitializeBuildStatus:
+  "AlwaysCreate"이(가) 지정되었기 때문에 "cmTC_1c5cd.dir\Debug\cmTC_1c5cd.tlog\unsuccessfulbuild"을(를) 만들고 있습니다.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x64\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_1c5cd.dir\Debug\\" /Fd"cmTC_1c5cd.dir\Debug\vc141.pdb" /Gd /TP /FC /errorReport:queue C:\project\app\term_project\bld\CMakeFiles\feature_tests.cxx
+  Microsoft (R) C/C++ 최적화 컴파일러 버전 19.15.26730(x64)
+  Copyright (c) Microsoft Corporation. All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_1c5cd.dir\Debug\\" /Fd"cmTC_1c5cd.dir\Debug\vc141.pdb" /Gd /TP /FC /errorReport:queue C:\project\app\term_project\bld\CMakeFiles\feature_tests.cxx
+  feature_tests.cxx
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x64\link.exe /ERRORREPORT:QUEUE /OUT:"C:\project\app\term_project\bld\CMakeFiles\CMakeTmp\Debug\cmTC_1c5cd.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/project/app/term_project/bld/CMakeFiles/CMakeTmp/Debug/cmTC_1c5cd.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/project/app/term_project/bld/CMakeFiles/CMakeTmp/Debug/cmTC_1c5cd.lib" /MACHINE:X64  /machine:x64 cmTC_1c5cd.dir\Debug\feature_tests.obj
+  cmTC_1c5cd.vcxproj -> C:\project\app\term_project\bld\CMakeFiles\CMakeTmp\Debug\cmTC_1c5cd.exe
+FinalizeBuildStatus:
+  "cmTC_1c5cd.dir\Debug\cmTC_1c5cd.tlog\unsuccessfulbuild" 파일을 삭제하고 있습니다.
+  "cmTC_1c5cd.dir\Debug\cmTC_1c5cd.tlog\cmTC_1c5cd.lastbuildstate"에 연결(touching)하고 있습니다.
+"C:\project\app\term_project\bld\CMakeFiles\CMakeTmp\cmTC_1c5cd.vcxproj" 프로젝트를 빌드했습니다(기본 대상).
+
+빌드했습니다.
+    경고 0개
+    오류 0개
+
+경과 시간: 00:00:00.82
+
+
+    Feature record: CXX_FEATURE:1cxx_aggregate_default_initializers
+    Feature record: CXX_FEATURE:1cxx_alias_templates
+    Feature record: CXX_FEATURE:1cxx_alignas
+    Feature record: CXX_FEATURE:1cxx_alignof
+    Feature record: CXX_FEATURE:1cxx_attributes
+    Feature record: CXX_FEATURE:1cxx_attribute_deprecated
+    Feature record: CXX_FEATURE:1cxx_auto_type
+    Feature record: CXX_FEATURE:1cxx_binary_literals
+    Feature record: CXX_FEATURE:1cxx_constexpr
+    Feature record: CXX_FEATURE:1cxx_contextual_conversions
+    Feature record: CXX_FEATURE:1cxx_decltype
+    Feature record: CXX_FEATURE:1cxx_decltype_auto
+    Feature record: CXX_FEATURE:1cxx_default_function_template_args
+    Feature record: CXX_FEATURE:1cxx_defaulted_functions
+    Feature record: CXX_FEATURE:1cxx_defaulted_move_initializers
+    Feature record: CXX_FEATURE:1cxx_delegating_constructors
+    Feature record: CXX_FEATURE:1cxx_deleted_functions
+    Feature record: CXX_FEATURE:1cxx_digit_separators
+    Feature record: CXX_FEATURE:1cxx_enum_forward_declarations
+    Feature record: CXX_FEATURE:1cxx_explicit_conversions
+    Feature record: CXX_FEATURE:1cxx_extended_friend_declarations
+    Feature record: CXX_FEATURE:1cxx_extern_templates
+    Feature record: CXX_FEATURE:1cxx_final
+    Feature record: CXX_FEATURE:1cxx_func_identifier
+    Feature record: CXX_FEATURE:1cxx_generalized_initializers
+    Feature record: CXX_FEATURE:1cxx_generic_lambdas
+    Feature record: CXX_FEATURE:1cxx_inheriting_constructors
+    Feature record: CXX_FEATURE:1cxx_inline_namespaces
+    Feature record: CXX_FEATURE:1cxx_lambdas
+    Feature record: CXX_FEATURE:1cxx_lambda_init_captures
+    Feature record: CXX_FEATURE:1cxx_local_type_template_args
+    Feature record: CXX_FEATURE:1cxx_long_long_type
+    Feature record: CXX_FEATURE:1cxx_noexcept
+    Feature record: CXX_FEATURE:1cxx_nonstatic_member_init
+    Feature record: CXX_FEATURE:1cxx_nullptr
+    Feature record: CXX_FEATURE:1cxx_override
+    Feature record: CXX_FEATURE:1cxx_range_for
+    Feature record: CXX_FEATURE:1cxx_raw_string_literals
+    Feature record: CXX_FEATURE:1cxx_reference_qualified_functions
+    Feature record: CXX_FEATURE:1cxx_return_type_deduction
+    Feature record: CXX_FEATURE:1cxx_right_angle_brackets
+    Feature record: CXX_FEATURE:1cxx_rvalue_references
+    Feature record: CXX_FEATURE:1cxx_sizeof_member
+    Feature record: CXX_FEATURE:1cxx_static_assert
+    Feature record: CXX_FEATURE:1cxx_strong_enums
+    Feature record: CXX_FEATURE:1cxx_template_template_parameters
+    Feature record: CXX_FEATURE:1cxx_thread_local
+    Feature record: CXX_FEATURE:1cxx_trailing_return_types
+    Feature record: CXX_FEATURE:1cxx_unicode_literals
+    Feature record: CXX_FEATURE:1cxx_uniform_initialization
+    Feature record: CXX_FEATURE:1cxx_unrestricted_unions
+    Feature record: CXX_FEATURE:1cxx_user_literals
+    Feature record: CXX_FEATURE:1cxx_variable_templates
+    Feature record: CXX_FEATURE:1cxx_variadic_macros
+    Feature record: CXX_FEATURE:1cxx_variadic_templates
